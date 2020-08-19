@@ -19,6 +19,7 @@ module:
   contextual: 0
   controlled_access_terms: 0
   controlled_access_terms_defaults: 0
+  ctools: 0
   datetime: 0
   dblog: 0
   devel: 0
@@ -103,6 +104,7 @@ module:
   update: 0
   user: 0
   views_ui: 0
+  pathauto: 1
   content_translation: 10
   views: 10
   minimal: 1000
